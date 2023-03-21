@@ -8,6 +8,7 @@
 
 p {
     color: var(--var--font2);
+    font-size: 12px;
 }
 
 h1,
@@ -122,4 +123,12 @@ figure figcaption {
 
 h2 {
     margin-top: 15px;
+}
+
+/* footer */
+
+.footerBar {
+    margin-top: 50px;
+    background-color: var(--var--topFooter);
+    height: 40px;
 }
